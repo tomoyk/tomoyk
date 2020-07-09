@@ -2,6 +2,8 @@
 
 I’m Tomoyuki KOYAMA who is a University Student.
 
+[speakerdeck](https://speakerdeck.com/tomoyk) | [linkedin](https://www.linkedin.com/in/tomoyuki-koyama/) | [blog](https://blog.koyama.me/)
+
 ### Skills
 
 - IT Infrastructure(Server, Network)
@@ -13,19 +15,6 @@ I’m Tomoyuki KOYAMA who is a University Student.
   - Web Application
   - Service Platform
 - Web App Development
-
-### Links
-
-- [speakerdeck.com/tomoyk](https://speakerdeck.com/tomoyk)
-- [twitter.com/tmyk_kym](https://twitter.com/tmyk_kym)
-- [github.com/tomoyk](https://github.com/tomoyk)
-- [gitlab.com/tomoyk](https://gitlab.com/tomoyk)
-- [qiita.com/tomoyk](https://qiita.com/tomoyk)
-
-### Careers
-
-- [www.linkedin.com/in/tomoyuki-koyama/](https://www.linkedin.com/in/tomoyuki-koyama/)
-- [www.wantedly.com/users/18399304](https://www.wantedly.com/users/18399304)
 
 ### Developed OSS
 
