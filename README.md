@@ -4,17 +4,7 @@ I’m Tomoyuki KOYAMA who is a University Student.
 
 [speakerdeck](https://speakerdeck.com/tomoyk) | [linkedin](https://www.linkedin.com/in/tomoyuki-koyama/) | [blog](https://blog.koyama.me/)
 
-### Skills
-
-- IT Infrastructure(Server, Network)
-  - Automation(CI/CD)
-  - Monitoring and Logging
-  - Infra as Code
-  - Container Virtualization
-- Cyber Security
-  - Web Application
-  - Service Platform
-- Web App Development
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tomoyk)
 
 ### Developed OSS
 
