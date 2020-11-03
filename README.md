@@ -2,7 +2,9 @@
 
 I’m Tomoyuki KOYAMA who is a University Student.
 
-[speakerdeck](https://speakerdeck.com/tomoyk) | [linkedin](https://www.linkedin.com/in/tomoyuki-koyama/) | [blog](https://blog.koyama.me/)
+[SpeakerDeck](https://speakerdeck.com/tomoyk) | [Qiita](https://qiita.com/tomoyk) | [Blog](https://blog.koyama.me/)
+
+[LinkedIn](https://www.linkedin.com/in/tomoyuki-koyama/) | [Wantedly](https://www.wantedly.com/users/18399304)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tomoyk)
 
