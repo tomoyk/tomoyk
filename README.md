@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m Tomoyuki KOYAMA who is a University Student.
+I’m Tomoyuki KOYAMA who is a University Student. 
+
+**I ❤ Log Management**
 
 [SpeakerDeck](https://speakerdeck.com/tomoyk) | [Qiita](https://qiita.com/tomoyk) | [Blog](https://blog.koyama.me/) | [LinkedIn](https://www.linkedin.com/in/tomoyuki-koyama/) | [Wantedly](https://www.wantedly.com/users/18399304)
 
