@@ -16,13 +16,13 @@ I’m Tomoyuki KOYAMA who is a University Student.
 ### Developed OSS
 
 - [NickNS](https://github.com/cdsl-research/nickns)
-  - Authoriative Server Nameserver
+  - Authoriative DNS Server
   - Programming Language: Go
   - Resolving Virtual Machine Name into IP Address
 - [ECoMan](https://github.com/cdsl-research/ecoman)
   - VM Management Web App with VMWare ESXi
   - Programming Language: Python
 - [SSH Rental Space](https://github.com/tomoyk/ssh-rental-space)
-  - SSH Hosting System supporting multi tenancy
+  - SSH Hosting System supporting multi-tenancy
   - The system is running on https://www2.linux.it.teu.ac.jp/
   - Programming Language: Python
