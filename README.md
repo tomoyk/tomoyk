@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Tomoyuki KOYAMA who is a University Student. 
+I’m Tomoyuki KOYAMA. 
 
 **I ❤ Log Management & Distributed Systems.**
 
