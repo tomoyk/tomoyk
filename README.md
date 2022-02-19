@@ -15,16 +15,3 @@ I’m Tomoyuki KOYAMA.
 
 My `.zshrc` is [here](https://gist.github.com/tomoyk/79f5228d5aa9b24266e58353d1fca616).
 
-### Developed OSS
-
-- [NickNS](https://github.com/cdsl-research/nickns)
-  - Authoriative DNS Server
-  - Programming Language: Go
-  - Resolving Virtual Machine Name into IP Address
-- [ECoMan](https://github.com/cdsl-research/ecoman)
-  - VM Management Web App with VMWare ESXi
-  - Programming Language: Python
-- [SSH Rental Space](https://github.com/tomoyk/ssh-rental-space)
-  - SSH Hosting System supporting multi-tenancy
-  - The system is running on https://www2.linux.it.teu.ac.jp/
-  - Programming Language: Python
