@@ -13,5 +13,5 @@ I’m Tomoyuki KOYAMA.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tomoyk)
 
-My `.zshrc` is [here](https://gist.github.com/tomoyk/79f5228d5aa9b24266e58353d1fca616).
+My `.zshrc` is in [here](https://gist.github.com/tomoyk/79f5228d5aa9b24266e58353d1fca616).
 
