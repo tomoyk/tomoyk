@@ -11,7 +11,8 @@ I’m Tomoyuki KOYAMA.
 
 [![SpeakerDeck]](https://speakerdeck.com/tomoyk/) [![Blog]](https://blog.koyama.me/) [![Qiita]](https://qiita.com/tomoyk) [![LinkedIn]](https://www.linkedin.com/in/tomoyuki-koyama/)
 
+<!--
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tomoyk)
-
+-->
 My `.zshrc` is in [here](https://gist.github.com/tomoyk/79f5228d5aa9b24266e58353d1fca616).
 
